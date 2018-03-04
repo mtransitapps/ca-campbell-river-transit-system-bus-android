@@ -5,7 +5,7 @@ Campbell River Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from August 28, 2017 to March 31, 2018.
+Schedule from March 2, 2018 to December 31, 2018.
 Tweets from @BCTransit.
 ----------
 Full description:
