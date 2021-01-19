@@ -1,5 +1,5 @@
-'CAM2001-CAM2001-Saturday-01',700,95900,,'',15300,,'',11000,,''
-'CAM2001-CAM2001-Sunday-01',700,100200,,'',11000,,'',11000,,''
-'CAM2001-CAM2001-Weekday-03',700,74000,,'',11200,,'',16000,,'',21000,,''
+'CAM2001-CAM2001-Saturday-01',700,95900,0,'Petersen Loop',15300,0,'Petersen Loop',11000,0,'Petersen Loop'
+'CAM2001-CAM2001-Sunday-01',700,100200,0,'Petersen Loop',11000,0,'Petersen Loop',11000,0,'Petersen Loop'
+'CAM2001-CAM2001-Weekday-03',700,74000,0,'Petersen Loop',11200,0,'Petersen Loop',16000,0,'Petersen Loop',21000,0,'Petersen Loop'
 'CAM2001-CAM2001-Saturday-01',801,101900,,'',33200,,''
 'CAM2001-CAM2001-Weekday-03',801,75300,,'',17700,,'',40700,,''
