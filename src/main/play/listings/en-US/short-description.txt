@@ -1,2 +1,1 @@
-Campbell River Transit System buses for MonTransit.
-Schedule. Alerts. News.
+Campbell River Transit System buses for MonTransit. Schedule. Alerts. News.
