@@ -1,15 +1,14 @@
-100,0,'Campbellton',1
-101,0,'Willow Pt',1
-200,0,'Campbellton',2
-201,0,'Willow Pt',2
-300,0,'Discovery Mall',3
-301,0,'Willow Pt',3
-400,0,'Campbellton',4
-601,0,'Oyster River',6
-600,0,'Willow Pt',6
-700,0,'Petersen AM Loop',7
-701,0,'Petersen PM Loop',7
-801,0,'NI College',8
-800,0,'Quinsam',8
-1501,0,'Homalco',15
-1500,0,'NI College',15
+1029,0,'Campbellton',1
+1019,0,'Willow Pt',1
+2019,0,'Campbellton',2
+2029,0,'Willow Pt',2
+3029,0,'Discovery Mall',3
+3019,0,'Willow Pt',3
+4019,0,'Campbellton',4
+6019,0,'Oyster River',6
+6029,0,'Willow Pt',6
+7019,0,'AM',7
+7029,0,'PM',7
+8029,0,'NI College',8
+8019,0,'Quinsam',8
+15019,0,'Homalco',15
