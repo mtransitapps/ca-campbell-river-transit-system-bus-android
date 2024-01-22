@@ -1,8 +1,8 @@
-1,'1-CAM','Campbellton / Willow Pt Via Dogwood','004B8D',46659603,3
-2,'2-CAM','Campbellton / Willow Pt Via Alder','8CC63F',47583124,3
-3,'3-CAM','Discovery Mall / Willow Pt Via Hwy 19A','F37421',48506645,3
-4,'4-CAM','Campbellton','00AEEF',49430166,3
-6,'6-CAM','Oyster River / Willow Pt','FCAF17',51277208,3
-7,'7-CAM','Petersen','00AA47',52200729,3
-8,'8-CAM','Quinsam / North Isl College','ED1D8F',53124250,3
-15,'15-CAM','Homalco','8177B7',1453182086,3
+1,'1','Campbellton / Willow Pt Via Dogwood','004B8D',49,3
+2,'2','Campbellton / Willow Pt Via Alder','8CC63F',50,3
+3,'3','Discovery Mall / Willow Pt Via Hwy 19A','F37421',51,3
+4,'4','Campbellton','00AEEF',52,3
+6,'6','Oyster River / Willow Pt','FCAF17',54,3
+7,'7','Petersen','00AA47',55,3
+8,'8','Quinsam / North Isl College','ED1D8F',56,3
+15,'15','Homalco','8177B7',1572,3
